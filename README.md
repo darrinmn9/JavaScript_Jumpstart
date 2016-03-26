@@ -3,7 +3,7 @@
 
 ##Lessons
 
-1. ["Types, Quirks and Common Misconceptions"](01 Types, Quirks and Misconceptions/)
+**1.** ["Types, Quirks and Common Misconceptions"](01 Types, Quirks and Misconceptions/)
 2. ["Objects and Arrays"](02 Objects and Arrays/)
 3. ["Functions and Scoping"](03 Functions and Scoping/)
 4. ["JavaScript Fundamentals"](04 JavaScript Fundamentals/)
