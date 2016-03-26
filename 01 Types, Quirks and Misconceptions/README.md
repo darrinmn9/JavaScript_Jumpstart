@@ -1,4 +1,4 @@
-# init
+# Types, Quirks and Common Misconceptions
 
 ![""](slides/Slide1.PNG)
 ![""](slides/Slide2.PNG)
