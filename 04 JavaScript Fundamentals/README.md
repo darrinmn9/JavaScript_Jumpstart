@@ -1,3 +1,3 @@
 # JavaScript Fundamentals
 
-In progress...
+Coming soon
