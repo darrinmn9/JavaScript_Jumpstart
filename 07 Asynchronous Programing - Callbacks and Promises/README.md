@@ -3,7 +3,7 @@
 ![""](slides/Slide1.PNG)
 ![""](slides/Slide2.PNG)
 ![""](slides/Slide3.PNG)
-**See example #1
+See example #1
 <br/>
 <br/>
 <br/>
