@@ -28,20 +28,19 @@ Call and Apply do the same thing, forcing the “this” context… but the extr
 ![""](slides/Slide13.PNG)
 In this example, we have two separate functions that exist on methods on different objects
 <br/>
-<br/>
-<br/>
 //2<br/>
 //2<br/>
 //1<br/>
 //1
 ![""](slides/Slide14.PNG)
 In this example, we have only 1 function, which may appear to look like a free function, but is later attached by variable reference to two different objects
+<br/>
 //Line 90: 2<br/>
 //Line 91: 3<br/>
 //3<br/>
 //2<br/>
 //3<br/>
-//2
+//2<br/>
 The key takeaway is that we only need to care about the 1st parameter to define what our “this” context will be
 <br/>
 <br/>
