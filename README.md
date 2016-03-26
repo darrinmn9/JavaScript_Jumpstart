@@ -8,16 +8,16 @@ http://www.meetup.com/MakerSquareSF/
 
 ###Lessons
 
-* ["Types, Quirks and Common Misconceptions"](01 Types, Quirks and Misconceptions/)
-* ["Objects and Arrays"](02 Objects and Arrays/)
-* ["Functions and Scoping"](03 Functions and Scoping/)
-* ["JavaScript Fundamentals"](04 JavaScript Fundamentals/)
-* ["Inheritance and Object Oriented Programming"](05 Inheritance and Object Oriented Programming/)
-* ["Keyword this"](06 Keyword this/)
-* ["Asynchronous Programing - Callbacks and Promises"](07 Asynchronous Programing - Callbacks and Promises/)
-* ["Recursion"](08 Recursion/)
-* ["ECMAScript 6 (ES 2015)"](09 ECMAScript 6 (ES 2015)/)
-* ["JavaScript and the Document Object Model (DOM)"](10 JavaScript and the DOM/)
+1. ["Types, Quirks and Common Misconceptions"](01 Types, Quirks and Misconceptions/)
+2. ["Objects and Arrays"](02 Objects and Arrays/)
+3. ["Functions and Scoping"](03 Functions and Scoping/)
+4. ["JavaScript Fundamentals"](04 JavaScript Fundamentals/)
+5. ["Inheritance and Object Oriented Programming"](05 Inheritance and Object Oriented Programming/)
+6. ["Keyword this"](06 Keyword this/)
+7. ["Asynchronous Programing - Callbacks and Promises"](07 Asynchronous Programing - Callbacks and Promises/)
+8. ["Recursion"](08 Recursion/)
+9. ["ECMAScript 6 (ES 2015)"](09 ECMAScript 6 (ES 2015)/)
+10. ["JavaScript and the Document Object Model (DOM)"](10 JavaScript and the DOM/)
 
 
 ####Note: I do not own all the content in these slides, as some concept explanatiaons and several screenshots taken from various sources like mdn documentation, blogs, books, additional documentation. I will try to add links to the bottom of these slides or to a sources slide at the end of each lesson.
