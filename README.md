@@ -15,6 +15,7 @@
 10. ["JavaScript and the Document Object Model (DOM)"](10 JavaScript and the DOM/)
 <br/>
 <br/>
+
 This repo includes 10 lessons I "assembled" for coming up to speed on the JavaScript programming language (ECMAscript). These lectures were created for the purpose of isolated, 2 hour lectures with interactive coding examples and whiteboarding for more complex concepts. The coding snippets have been included for these individual lessons, but obviously the value of in-person instruction, whiteboarding, slide animations, and additional 3rd party tools like REPL's cannot be easily included here. Please also note that since these sections have been developed for isolated 2 hour lectures, some important slides and concepts are intentionally repeated.
 
 If you are interesting in coming to an in-person JavaScript lesson, please sign up on MakerSquare's meetup page. Meetups occur regularly on Tuesday's at 6pm PST.
