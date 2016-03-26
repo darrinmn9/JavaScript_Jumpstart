@@ -25,9 +25,9 @@ Switch to coding examples until you hit the section on generators. The files are
 ![""](slides/Slide9.PNG)
 Generators give us a very powerful way to deal with asynchronicity (and even concurrency), and many experts hypothesize that combining the use of promises and generators could be the single most powerful pattern to emerge from the ES6/ES2015 spec. This can get really advanced and out of the scope of these lessons, but to learn more about generators, I would recommend these multi-part blog posts on generators:
 <br/>
-["David Walsh's Blog"](https://davidwalsh.name/async-generators)<br/>
-["Kyle Simpson's Blog series on promises"](http://blog.getify.com/promises-part-1/)<br/>
-["Comparing ES6 generators to GO style concurrency"](https://swannodette.github.io/2013/08/24/es6-generators-and-csp/)
+[David Walsh's Blog](https://davidwalsh.name/async-generators)<br/>
+[Kyle Simpson's Blog series on promises](http://blog.getify.com/promises-part-1/)<br/>
+[Comparing ES6 generators to GO style concurrency](https://swannodette.github.io/2013/08/24/es6-generators-and-csp/)
 <br/>
 <br/>
 <br/>
