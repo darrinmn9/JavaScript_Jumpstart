@@ -1,1 +1,12 @@
-# init
+# ECMAScript 6 (ES 2015)
+
+![""](slides/Slide1.PNG)
+![""](slides/Slide2.PNG)
+![""](slides/Slide3.PNG)
+![""](slides/Slide4.PNG)
+![""](slides/Slide5.PNG)
+![""](slides/Slide6.PNG)
+![""](slides/Slide7.PNG)
+![""](slides/Slide8.PNG)
+![""](slides/Slide9.PNG)
+![""](slides/Slide10.PNG)
