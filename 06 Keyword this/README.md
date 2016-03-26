@@ -30,17 +30,17 @@ In this example, we have two separate functions that exist on methods on differe
 <br/>
 <br/>
 <br/>
-//2
-//2
-//1
+//2<br/>
+//2<br/>
+//1<br/>
 //1
 ![""](slides/Slide14.PNG)
 In this example, we have only 1 function, which may appear to look like a free function, but is later attached by variable reference to two different objects
-//Line 90: 2
-//Line 91: 3
-//3
-//2
-//3
+//Line 90: 2<br/>
+//Line 91: 3<br/>
+//3<br/>
+//2<br/>
+//3<br/>
 //2
 The key takeaway is that we only need to care about the 1st parameter to define what our “this” context will be
 <br/>
@@ -63,7 +63,7 @@ We never actually execute “add” until line 120, but we are basically forcing
 ![""](slides/Slide21.PNG)
 ![""](slides/Slide22.PNG)
 ![""](slides/Slide23.PNG)
-//6
+//6<br/>
 //37
 ![""](slides/Slide24.PNG)
 When we assign “this” to another variable, we are keeping it from being shadowed by the inner function. By default, all functions get their own “this” keyword, and when a reference is found in a local scope javascript will not continue looking outside of that function, so we need to save the “this” reference to some arbitrary variable name that will not exist in the inner function “x”, keeping it from being “shadowed”
