@@ -8,7 +8,7 @@
 **3.** [Functions and Scoping](03 Functions and Scoping/)<br/>
 **4.** [JavaScript Fundamentals](04 JavaScript Fundamentals/)<br/>
 **5.** [Inheritance and Object Oriented Programming](05 Inheritance and Object Oriented Programming/)<br/>
-**6.** [Keyword this](06 Keyword this/)<br/>
+**6.** [Keyword "this"](06 Keyword this/)<br/>
 **7.** [Asynchronous Programing - Callbacks and Promises](07 Asynchronous Programing - Callbacks and Promises/)<br/>
 **8.** [Recursion](08 Recursion/)<br/>
 **9.** [ECMAScript 6 (ES 2015)](09 ECMAScript 6 (ES 2015)/)<br/>
@@ -26,4 +26,4 @@ http://www.meetup.com/MakerSquareSF/
 <br>
 **Note:** I do not own all the content in these slides, as some concept explanatiaons and several screenshots taken from various sources like mdn documentation, blogs, books, additional documentation. I will try to add links to the bottom of these slides or to a sources slide at the end of each lesson.
 
-The logic of how to introduce concepts and a majority of this material was created specifically by me for MakerSquare's Meetup. The goal of these lessons are to help beginners learn JavaScript, and some explanations have been so perfectly crafted by other people/sources, it makes more sense to compile these concepts and anecdotes instead of having me recreate them to my best attempt. I only care about teaching others in the quickest and most concise way possible. (I give this same disclaimer to everyone who shows up for the meetup)
+The logic of how to introduce concepts and a majority of this material was created by me for MakerSquare's Meetup. The goal of these lessons are to help beginners and programmers coming from a differente language learn JavaScript. Some explanations have been so perfectly crafted by other people/sources, it makes more sense to compile these concepts and anecdotes instead of having me recreate them to my best attempt. I only care about teaching others in the quickest, most effective and concise way possible. (I give this same disclaimer to everyone who shows up for the meetup)
