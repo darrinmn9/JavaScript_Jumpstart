@@ -76,7 +76,7 @@ It is generally bad practice to extend the Object.prototype, but I want to make 
 <br/>
 <br/>
 ![""](slides/Slide18.PNG)
-There is a lot to handle here, and if you can understand what is going on here, you can grasp almost all there is no know about prototypical inheritance, so let’s break it down line by line on the white board. Please see ["this link"](/whiteboardscript_inheritane.docx)
+There is a lot to handle here, and if you can understand what is going on here, you can grasp almost all there is no know about prototypical inheritance, so let’s break it down line by line on the white board. Please see [this link](./whiteboardscript_inheritane.docx)
 <br/>
 <br/>
 <br/>
