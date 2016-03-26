@@ -25,8 +25,8 @@ This diagram is a simplified view of the JS runtime. The head is where memory al
 When users interact with their browser, they are interacting with several web APIs as well as the JavaScript runtime environment. By accessing these web APIs, we allow the API’s to go off and do their own work in separate threads, while the JavaScript runtime continues through its call stack. All of a sudden, it’s like we can do multiple things at once. And mastering asynchronous programming in JavaScript requires you to understand how the “Event Loop” works. JavaScript has a concurrency model based on an "event loop". This model is quite different than the model in other languages like C or Java.
 <br/>
 Event Loop Priority:<br/>
-#1 execute whatever is in the call stack <br/>
-#2 if the stack is empty, process any callback’s in our queue <br/>
+1. execute whatever is in the call stack <br/>
+2. if the stack is empty, process any callback’s in our queue <br/>
 <br/>
 Look at examples #3 and #4 – realize the difference between synchronous and asynchronous timers
 <br/>
