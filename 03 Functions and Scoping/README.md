@@ -18,7 +18,7 @@ JavaScript makes 2 passes at your code, first moving variable/function declarati
 <br/>
 <br/>
 ![""](slides/Slide9.PNG)
-** See “func_examples.js” and show these snippets in a REPL
+See “func_examples.js” and show these snippets in a REPL
 Solutions in “func_answers.js”
 <br/>
 <br/>

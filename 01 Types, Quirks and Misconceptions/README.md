@@ -47,7 +47,7 @@ Different programming languages create scope in different ways. Languages like C
 <br/>
 ![""](slides/Slide18.PNG)
 ![""](slides/Slide19.PNG)
-**live code examples
+live code examples
 <br/>
 <br/>
 <br/>

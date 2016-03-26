@@ -33,7 +33,7 @@ Look at examples #3 and #4 – realize the difference between synchronous and as
 <br/>
 <br/>
 ![""](slides/Slide9.PNG)
-**What will this do? See problem #5
+What will this do? See problem #5
 <br/>
 <br/>
 <br/>
@@ -57,7 +57,7 @@ Promises allow us to avoid callback hell and reason about our code “as if” i
 ![""](slides/Slide13.PNG)
 Here’s how you create a native promise (new ES6 standard)
 <br/>
-**See coding example #6
+See coding example #6
 <br/>
 <br/>
 <br/>
