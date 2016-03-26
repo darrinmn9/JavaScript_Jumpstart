@@ -2,6 +2,7 @@
 
 ![""](slides/Slide1.PNG)
 JavaScript is a beautiful, quirky and typically misunderstood language, yet it dominates the web browser
+<br/>
 ![""](slides/Slide2.PNG)
 ![""](slides/Slide3.PNG)
 ![""](slides/Slide4.PNG)
