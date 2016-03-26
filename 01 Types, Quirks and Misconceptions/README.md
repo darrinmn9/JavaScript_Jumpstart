@@ -1,7 +1,6 @@
 # Types, Quirks and Common Misconceptions
 
-![""][1]
-[1]: slides/Slide1.PNG
+![""](slides/Slide1.PNG)
 ![""](slides/Slide2.PNG)
 ![""](slides/Slide3.PNG)
 ![""](slides/Slide4.PNG)
