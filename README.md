@@ -3,16 +3,16 @@
 
 ##Lessons
 
-**1.** ["Types, Quirks and Common Misconceptions"](01 Types, Quirks and Misconceptions/)<br/>
-**2.** ["Objects and Arrays"](02 Objects and Arrays/)<br/>
-**3.** ["Functions and Scoping"](03 Functions and Scoping/)<br/>
-**4.** ["JavaScript Fundamentals"](04 JavaScript Fundamentals/)<br/>
-**5.** ["Inheritance and Object Oriented Programming"](05 Inheritance and Object Oriented Programming/)<br/>
-**6.** ["Keyword this"](06 Keyword this/)<br/>
-**7.** ["Asynchronous Programing - Callbacks and Promises"](07 Asynchronous Programing - Callbacks and Promises/)<br/>
-**8.** ["Recursion"](08 Recursion/)<br/>
-**10.** ["ECMAScript 6 (ES 2015)"](09 ECMAScript 6 (ES 2015)/)<br/>
-**10.** ["JavaScript and the Document Object Model (DOM)"](10 JavaScript and the DOM/)
+**1.** [Types, Quirks and Common Misconceptions](01 Types, Quirks and Misconceptions/)<br/>
+**2.** [Objects and Arrays](02 Objects and Arrays/)<br/>
+**3.** [Functions and Scoping](03 Functions and Scoping/)<br/>
+**4.** [JavaScript Fundamentals](04 JavaScript Fundamentals/)<br/>
+**5.** [Inheritance and Object Oriented Programming](05 Inheritance and Object Oriented Programming/)<br/>
+**6.** [Keyword this](06 Keyword this/)<br/>
+**7.** [Asynchronous Programing - Callbacks and Promises](07 Asynchronous Programing - Callbacks and Promises/)<br/>
+**8.** [Recursion](08 Recursion/)<br/>
+**9.** [ECMAScript 6 (ES 2015)](09 ECMAScript 6 (ES 2015)/)<br/>
+**10.** [JavaScript and the Document Object Model (DOM)](10 JavaScript and the DOM/)
 <br/>
 <br/>
 
