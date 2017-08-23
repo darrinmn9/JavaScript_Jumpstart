@@ -1,17 +1,15 @@
 # JavaScript Jumpstart
 
 
-##Lessons
-
-**1.** [Types, Quirks and Common Misconceptions](01 Types, Quirks and Misconceptions/)<br/>
-**2.** [Objects and Arrays](02 Objects and Arrays/)<br/>
-**3.** [Functions and Scoping](03 Functions and Scoping/)<br/>
-**4.** [Inheritance and Object Oriented Programming](04 Inheritance and Object Oriented Programming/)<br/>
-**5.** [Keyword "this"](05 Keyword this/)<br/>
-**6.** [Asynchronous Programing - Callbacks and Promises](06 Asynchronous Programing - Callbacks and Promises/)<br/>
-**7.** [Recursion](07 Recursion/)<br/>
-**8.** [ECMAScript 6 (ES 2015)](08 ECMAScript 6 (ES 2015)/)<br/>
-**9.** [JavaScript and the Document Object Model (DOM)](09 JavaScript and the DOM/)
+**1.** [Types, Quirks and Common Misconceptions](01%20Types,%20Quirks%20and%20Misconceptions/)<br/>
+**2.** [Objects and Arrays](02%20Objects%20and%20Arrays/)<br/>
+**3.** [Functions and Scoping](03%20Functions%20and%20Scoping/)<br/>
+**4.** [Inheritance and Object Oriented Programming](04%20Inheritance%20and%20Object%20Oriented%20Programming/)<br/>
+**5.** [Keyword "this"](05%20Keyword%20this/)<br/>
+**6.** [Asynchronous Programing - Callbacks and Promises](06%20Asynchronous%20Programing%20-%20Callbacks%20and%20Promises/)<br/>
+**7.** [Recursion](07%20Recursion/)<br/>
+**8.** [ECMAScript 6 (ES 2015)](08%20ECMAScript%206%20(ES%202015)/)<br/>
+**9.** [JavaScript and the Document Object Model (DOM)](09%20JavaScript%20and%20the%20DOM/)
 <br/>
 <br/>
 
